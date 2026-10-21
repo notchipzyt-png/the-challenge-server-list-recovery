@@ -1,0 +1,18 @@
+{
+    "id": 149748188,
+    "name": "Isaacs Wave",
+    "author": "NotChipz",
+    "creators": ["NotChipz"],
+    "verifier": "NotChipz",
+    "verification": "https://youtu.be/ag4xSRZPZCc",
+    "percentToQualify": "100",
+    "password": "Free To Copy",
+    "records": [
+                                         {
+            "user": "FORM",
+            "link": "https://youtu.be/a6Rh1AaIHeM",
+            "percent": 100,
+            "hz": 60
+                }
+    ]
+}

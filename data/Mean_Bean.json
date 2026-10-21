@@ -1,0 +1,30 @@
+{
+    "id": 137062246,
+    "name": "Mean Bean",
+    "author": "NotChipz",
+    "creators": ["Isaac", "NotChipz"],
+    "verifier": "NotChipz",
+    "verification": "https://youtu.be/I7-MS8WaBa8",
+    "percentToQualify": "100",
+    "password": "Free To Copy",
+    "records": [
+                            {
+            "user": "Obey",
+            "link": "https://youtu.be/aHybUbdt11I",
+            "percent": 100,
+            "hz": 480
+        },
+                                        {
+            "user": "rubiks",
+            "link": "https://www.youtube.com/watch?v=7ekozXIN3rs",
+            "percent": 100,
+            "hz": 480
+        },
+                     {
+            "user": "Pringle",
+            "link": "https://medal.tv/games/geometry-dash/clips/nJVFwO6mmRTl14G5W?invite=cr-MSw2NUcsNjU1NjUwNTk5",
+            "percent": 100,
+            "hz": 480
+            }
+  ]
+}
